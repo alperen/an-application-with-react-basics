@@ -1,0 +1,9 @@
+.sender {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+
+  &__post-count {
+    margin-left: auto;
+  }
+}

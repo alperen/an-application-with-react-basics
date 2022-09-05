@@ -1,0 +1,7 @@
+@import "../../styles/colors";
+@import "../../styles/tokens";
+
+.box {
+  background-color: $gray;
+  padding: $medium;
+}

@@ -1,0 +1,18 @@
+@import '../../../../styles/tokens';
+
+.posts-list-container {
+  margin-top: $large;
+}
+
+.posts-list-filter-container {
+  display: flex;
+
+  &__sorting {
+    display: flex;
+    gap: $medium;
+  }
+
+  &__search {
+    margin-left: auto;
+  }
+}

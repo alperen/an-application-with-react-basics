@@ -1,0 +1,8 @@
+@import '../../../../styles/tokens.scss';
+
+.posts-shell {
+  display: grid;
+  gap: $large;
+  padding: $large;
+  grid-template-columns: 1fr 2fr;
+}

@@ -1,0 +1,7 @@
+@import "../../styles/tokens";
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: $large;
+}

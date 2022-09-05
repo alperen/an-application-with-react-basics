@@ -1,0 +1,7 @@
+@import "../../styles/colors";
+@import "../../styles/tokens";
+
+.badge {
+  padding: $medium;
+  background: $darken-gray;
+}
